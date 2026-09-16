@@ -16,7 +16,7 @@
 - около 500 пользователей за всё время и около 120 активных платных подписчиков по состоянию на сентябрь 2026 года;
 - коммерческий исходный код и инфраструктурные данные не публикуются.
 
-[Сайт](https://jarvis-vpn.com) · [Telegram-бот](https://t.me/jarv1svpnbot) · [Подробный кейс](https://github.com/jarv1sdotcom/jarvis-vpn-case-study)
+[Сайт](https://jarvis-vpn.com) · [Telegram-бот](https://t.me/jarv1svpnbot) · Подробный кейс готовится к публикации
 
 ## Что я умею
 
@@ -41,4 +41,3 @@ Git-based CI/CD, автоматические тесты, Docker, React, MCP, fu
 
 - Telegram: [@ildenov](https://t.me/ildenov)
 - Сайт проекта: [jarvis-vpn.com](https://jarvis-vpn.com)
-
