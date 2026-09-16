@@ -16,7 +16,7 @@
 - около 500 пользователей за всё время и около 120 активных платных подписчиков по состоянию на сентябрь 2026 года;
 - коммерческий исходный код и инфраструктурные данные не публикуются.
 
-[Сайт](https://jarvis-vpn.com) · [Telegram-бот](https://t.me/jarv1svpnbot) · Подробный кейс готовится к публикации
+[Сайт](https://jarvis-vpn.com) · [Telegram-бот](https://t.me/jarv1svpnbot) · [Подробный кейс](https://github.com/jarv1sdotcom/jarvis-vpn-case-study)
 
 ## Что я умею
 
